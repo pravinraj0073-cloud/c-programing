@@ -1,0 +1,6 @@
+#include <iostream>
+int main()
+{
+    printf( "I study in KAHE");
+    return 0;
+}
